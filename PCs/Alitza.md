@@ -4,6 +4,8 @@ title: Alitza
 
 # ALITZA
 
+![Alitza](alitza-portrait.jpg)
+
 **Player:** Jennifer
 **Archetype:** Decker / Rigger
 **Metatype:** Human (Female)
