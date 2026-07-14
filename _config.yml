@@ -1,0 +1,7 @@
+title: Huntsville Shadowrun
+description: Campaign wiki for Huntsville Shadowrun 3rd Edition
+theme: jekyll-theme-midnight
+baseurl: "/huntsville-shadowrun"
+url: "https://felix-sallee.github.io"
+
+markdown: kramdown
