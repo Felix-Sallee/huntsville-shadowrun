@@ -2,6 +2,8 @@
 title: Alitza
 ---
 
+[← Huntsville Shadowrun](../)
+
 # ALITZA
 
 ![Alitza](alitza-portrait.jpg)
