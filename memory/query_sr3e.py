@@ -11,6 +11,7 @@ Usage:
 import json
 import sys
 from pathlib import Path
+from collections import defaultdict, Counter
 
 INDEX_PATH = "/Users/felixagent/.openclaw/workspace-herrick/memory/sr3e_index.json"
 MEMORY_DIR = "/Users/felixagent/.openclaw/workspace-herrick/memory"
@@ -47,7 +48,6 @@ def search(query, top=10):
                 })
     
     # Sort by relevance (more matches = higher priority)
-    from collections import Counter
     term_counts = Counter(query_terms)
     results.sort(key=lambda x: -term_counts[x["term"]])
     
@@ -56,7 +56,7 @@ def search(query, top=10):
 
 def get_context(file_name, start_line, end_line):
     """Get full context for a search result"""
-    file_path = Path(Memory_dir) / file_name
+    file_path = Path(MEMORY_DIR) / file_name
     lines = file_path.read_text().split('\n')
     
     # Adjust indices (1-based line numbers in index → 0-based in list)
@@ -67,16 +67,41 @@ def get_context(file_name, start_line, end_line):
     return '\n'.join(context_lines)
 
 
+def parse_args(args):
+    """Parse command line arguments"""
+    query_parts = []
+    
+    for arg in args:
+        if arg.startswith('--'):
+            parts = arg.split('=', 1)
+            if len(parts) == 2:
+                key, value = parts
+            else:
+                key, value = parts[0], '5'  # default top=5
+            
+            if key == 'top':
+                return {'query': ' '.join(query_parts), 'top': int(value)}
+        else:
+            query_parts.append(arg)
+    
+    # No flags provided
+    top = 5
+    query = ' '.join(query_parts) if query_parts else ''
+    return {'query': query, 'top': top}
+
+
 def main():
-    if len(sys.argv) < 2:
+    args = sys.argv[1:]  # Skip script name
+    parsed = parse_args(args)
+    query = parsed['query']
+    top = parsed['top']
+    
+    if not query:
         print("Usage: python query_sr3e.py \"search query\"")
         print("Examples:")
         print('  python query_sr3e.py "damage"')
         print('  python query_sr3e.py "essence cost"')
         sys.exit(1)
-    
-    query = ' '.join(sys.argv[1:])
-    top = int(sys.argv[2]) if len(sys.argv) > 2 else 5
     
     results = search(query, top=top)
     
@@ -85,7 +110,6 @@ def main():
         sys.exit(0)
     
     # Group by file
-    from collections import defaultdict
     by_file = defaultdict(list)
     for r in results:
         by_file[r["file"]].append(r)
