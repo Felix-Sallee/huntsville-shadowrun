@@ -41,7 +41,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *Human racial range: 1–6 for all attributes. Points from Priority C (24 total), each point raises an attribute by 1 from racial minimum of 1.*
 
 | Attribute | Final | Points Spent |
-|-----------|-------|-------------|
+|-----------|:-----:|:------------:|
 | Body | 5 | 4 |
 | Quickness | 6 | 5 |
 | Strength | 3 | 2 |
@@ -65,7 +65,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ### Damage Tracks
 
 | Track | Boxes |
-|-------|-------|
+|-------|:-----:|
 | Physical | 10 |
 | Stun | 10 |
 
@@ -76,7 +76,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *40 points from Priority B. Each point = 1 skill rating.*
 
 | Skill | Rating | Notes |
-|-------|--------|-------|
+|-------|:------:|-------|
 | Computer | 6 | Matrix operations, decking |
 | Electronics | 6 | Hardware, sensors, general electronics |
 | Computer B/R | 4 | Deck repair and construction |
@@ -94,7 +94,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *Pool: Intelligence × 3 = 18 points (separate from active skill allocation).*
 
 | Skill | Rating |
-|-------|--------|
+|-------|:------:|
 | Matrix Security Systems | 5 |
 | Corporate Politics (Ares, Aztechnology) | 4 |
 | Huntsville, UCAS (local knowledge) | 4 |
@@ -109,7 +109,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *All Standard grade. Total Essence cost: 4.3. Remaining Essence: 1.7.*
 
 | Implant | Essence | Cost | Effect |
-|---------|---------|------|--------|
+|---------|:-------:|-----:|--------|
 | Datajack | 0.1 | 1,000¥ | Direct neural interface; required for decking and rigging |
 | Vehicle Control Rig 2 | 2.0 | 60,000¥ | +2 dice vehicle control when jumped in; rigger control interface |
 | Wired Reflexes 1 | 2.0 | 55,000¥ | +1 Reaction, +1 initiative die (see derived stats) |
@@ -123,7 +123,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *High-end professional deck. Sufficient MPCP for Rating 5–6 utility suite.*
 
 | Stat | Rating |
-|------|--------|
+|------|:------:|
 | MPCP | 6 |
 | Bod | 4 |
 | Evasion | 5 |
@@ -141,7 +141,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *All Rating 5. Memory footprint: Rating × 10 Mp each. Total loaded: 400 Mp of 600 Mp active memory. 200 Mp free buffer for temp operations.*
 
 | Program | Category | Rating | Memory | Est. Cost |
-|---------|----------|--------|--------|-----------|
+|---------|----------|:------:|:------:|----------:|
 | Armor | Defense | 5 | 50 Mp | 10,000¥ |
 | Medic | Defense | 5 | 50 Mp | 10,000¥ |
 | Cloak | Stealth | 5 | 50 Mp | 10,000¥ |
@@ -161,7 +161,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ### Drone Roster
 
 | Drone | Type | Body | Armor | Sig | Autopilot | Sensor | Qty | Unit Cost |
-|-------|------|------|-------|-----|-----------|--------|-----|-----------|
+|-------|------|:----:|:-----:|:---:|:---------:|:------:|:---:|----------:|
 | Doberman | Ground Scout / Light Combat | 2 | 4 | 3 | 2 | 2 | 2 | 20,000¥ |
 | MCT Nissan Roto-Drone | Aerial Recon | 2 | — | 3 | 2 | 3 | 1 | 25,000¥ |
 | Steel Lynx | Ground Heavy Combat | 4 | 8 | 2 | 3 | 3 | 1 | 65,000¥ |
@@ -170,7 +170,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ### Drone Equipment & Weapons
 
 | Item | Drone | Notes | Cost |
-|------|-------|-------|------|
+|------|-------|-------|-----:|
 | Medium pistol mount + Ares Predator II (×2) | Dobermans | Basic patrol/deterrence load | 4,000¥ |
 | Light machine gun mount (AK-97 conversion) | Steel Lynx | Area suppression | 3,500¥ |
 | Sensor package upgrade (Sensor +1) | Roto-Drone | Extended recon range | 2,000¥ |
@@ -186,7 +186,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *Mobile operations platform and crew transport. Rigger-adapted.*
 
 | Stat | Base | Modified |
-|------|------|----------|
+|------|:----:|:--------:|
 | Body | 10 | 10 |
 | Armor | 6 | 10 |
 | Pilot | 2 | 2 |
@@ -196,7 +196,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ### Modifications
 
 | Modification | Cost |
-|-------------|------|
+|-------------|-----:|
 | Base vehicle | 35,000¥ |
 | Rigger Adaptation | 15,000¥ |
 | Armor Upgrade (+4) | 20,000¥ |
@@ -210,7 +210,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ## Weapons
 
 | Weapon | Type | Damage | Ammo | Notes | Cost |
-|--------|------|--------|------|-------|------|
+|--------|------|--------|:----:|-------|-----:|
 | Ares Predator II | Heavy Pistol | 9M | 15 (clip) | SmartGun linked (+2 dice w/ Smartlink II) | 450¥ |
 | SmartGun modification | — | — | — | Required for Smartlink integration | 350¥ |
 | Spare magazines ×6 | — | — | — | | 60¥ |
@@ -225,7 +225,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 *Layered configuration. SR3E layering rules apply.*
 
 | Item | Ballistic | Impact | Cost |
-|------|-----------|--------|------|
+|------|:---------:|:------:|-----:|
 | Armor Jacket | 5 | 3 | 900¥ |
 | Armor Vest (worn under) | 1 | 1 | 500¥ |
 | **Combined** | **6** | **4** | **1,400¥** |
@@ -235,7 +235,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ## Gear
 
 | Item | Notes | Cost |
-|------|-------|------|
+|------|-------|-----:|
 | Electronics B/R Toolkit (Rating 4) | Deck and hardware repair | 2,000¥ |
 | Drone Repair Kit (Rating 4) | Drone maintenance and field repair | 2,000¥ |
 | Medkit Rating 6 | Field trauma | 1,500¥ |
@@ -261,7 +261,7 @@ Now she runs tech. Drones watch what she can't, the deck opens what's locked, an
 ## Budget Summary
 
 | Category | Cost |
-|----------|------|
+|----------|-----:|
 | Cyberware | 121,000¥ |
 | Cyberdeck (Fuchi Cyber-7) | 250,000¥ |
 | Deck Programs | 80,000¥ |
