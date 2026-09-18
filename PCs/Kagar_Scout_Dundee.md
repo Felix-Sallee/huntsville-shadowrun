@@ -6,178 +6,217 @@ title: Kagar Scout Dundee
 
 # KAGAR "SCOUT" DUNDEE
 
-![Kagar Scout Dundee](kagar-portrait.jpg)   <!-- optional placeholder -->
+![Kagar Scout Dundee](kagar-portrait.jpg)
 
-**Player:** Daniel Sallee  
-**Real Name:** Kagar Dundee  
-**Archetype:** Rigger  
-**Metatype:** Dwarf (Male)  
-**Age:** 19  
+**Player:** Daniel Sallee
+**Real Name:** Kagar Dundee
+**Archetype:** Rigger (drone specialist)
+**Metatype:** Dwarf (Male)
+**Age:** 19
+
+> Rebuilt 2026-09-18 as a canon-legal SR3 character. Every value below is drawn
+> from the rulebooks (cited inline as *SR3 p.NN* / *R3 p.NN*), cross-checked
+> against the Ultimate Shadowrun Equipment List. Supersedes the earlier draft,
+> which used invented cyberware costs and broke its own budget/essence.
 
 ---
 
 ## Background
 
-Raised in the lower levels of the Sprawl, Kagar "Scout" Dundee started his rigging career in delivery work before moving into security operations. At just 19 years old—having barely crossed into adulthood at 18—he's already earned a reputation for reliable courier runs and surveillance contracts that require staying under the radar.
-
-His small stature doesn't fool anyone in the Sprawl, but neither does his cyberware. Kagar specializes in operating micro-drones for drop operations and security monitoring, preferring to avoid direct confrontation while still being useful in combat situations when called upon. The dwarf's natural thermographic vision makes him particularly effective in low-light surveillance work, and his hardy constitution has seen him through more than a few close calls in the lower levels.
-
----
-
-## Priority Allocation
-
-| Priority | Category | Selection |
-|----------|----------|-----------|
-| D | Attributes | 21 points (Dwarf racial bonus applied) |
-| C | Skills | 30 points |
-| E | Magic | 0 points (non-magical) |
-| Resources | Nuyen | ~20,000¥ (Dwarf/Ork tier on Master Character Creation Table) |
+Raised in the lower levels of the Sprawl, Kagar "Scout" Dundee cut his teeth on
+delivery work before drifting into surveillance and security rigging. At 19 he
+already has a name for reliable courier runs and quiet drone overwatch. He's a
+small dwarf who'd rather let a Kanmushi do the sneaking — his thermographic
+vision and hardy constitution keep him alive in the low-light corners he works,
+and he avoids a straight fight whenever a drone can take the risk instead.
 
 ---
 
-## Attributes
+## Priority Allocation (Master Character Creation Table, SR3 p.54/56)
 
-*+1 Body, +2 Strength, +1 Willpower from Dwarf race. Natural thermographic vision and +2 Body resistance to disease/toxin.*
+| Priority | Category | What it grants |
+|----------|----------|----------------|
+| **A** | Skills | 50 skill points |
+| **B** | Attributes | 27 attribute points |
+| **C** | Resources | 90,000¥ |
+| **D** | Race | Dwarf (dwarfs/orks are Priority D) |
+| **E** | Magic | Mundane (0) |
 
-| Attribute | Points Spent | Racial Mod | Natural | Final |
-|-----------|-------------|------------|---------|-------|
-| Body | 3 | +1 (Dwarf) | 4 | **4** |
-| Quickness | 4 | - | 4 | **4** |
-| Strength | 3 | +2 (Dwarf) | 5 | **5** |
-| Charisma | 3 | - | 3 | **3** |
-| Intelligence | 4 | - | 4 | **4** |
-| Willpower | 4 | +1 (Dwarf) | 5 | **5** |
+*Rationale: a rigger lives on skills + gear, so Skills A and Resources C; Race is
+fixed at D for a dwarf; mundane, so Magic drops to E. (Resources C = 90,000¥ keeps
+this a believable young street rigger — see the note under Cyberware on why the
+old "~20,000¥" tier was impossible for a real rig.)*
+
+---
+
+## Attributes (Priority B = 27 points)
+
+*Points are bought 1–6, then racial modifiers apply. Dwarf: +1 Body, +2 Strength,
++1 Willpower; Thermographic Vision; +2 dice to resist disease/toxin (SR3 p.58).*
+
+| Attribute | Bought | Racial | **Natural** |
+|-----------|:------:|:------:|:-----------:|
+| Body | 4 | +1 | **5** |
+| Quickness | 5 | — | **5** |
+| Strength | 3 | +2 | **5** |
+| Charisma | 3 | — | **3** |
+| Intelligence | 6 | — | **6** |
+| Willpower | 6 | +1 | **7** |
+
+Bought total = 4+5+3+3+6+6 = **27/27** ✓ (each ≤6 before racial mods, per SR3 p.55)
 
 ### Derived Stats
 
-| Stat | Value | Formula |
-|------|-------|---------|
-| Reaction | 4 | floor((Quickness 4 + Intelligence 4)/2) |
-| Essence | E6 | Natural starting essence |
-| Magic | 0 | Non-magical character |
-
-### Damage Tracks
-
-| Track | Boxes | Source |
-|-------|-------|--------|
-| Physical | 10 | Body 4 (+2 dwarf bonus to damage dice pool) |
-| Stun | 8 | Strength 5 + Charisma 3 (base calculation) |
+| Stat | Value | Formula (SR3) |
+|------|:-----:|---------------|
+| Essence | **3.3** | 6.0 − 2.7 cyberware |
+| Magic | 0 | Mundane |
+| Reaction | **5** | ⌊(Quickness 5 + Intelligence 6) ÷ 2⌋ = ⌊5.5⌋ |
+| Initiative | **5 + 1d6** | Reaction + 1d6 (enhanced when jumped-in via the VCR — see Rigger 3) |
+| Combat Pool | **9** | ⌊(Quickness 5 + Intelligence 6 + Willpower 7) ÷ 2⌋ (SR3 p.43) |
+| Condition Monitor | 10 Physical / 10 Stun | Standard track; overflow = Body 5 |
 
 ---
 
-## Active Skills
+## Active Skills (Priority A = 50 points)
 
-*30 points from Priority C. Skill cost: 1pt per rating ≤ linked Attribute.*
+*Cost = 1 point per rating; max rating 6 at creation.*
 
-| Skill | Rating | Specialization | Notes |
-|-------|--------|----------------|--------|
-| Car | 4 | - | Primary vehicle operation skill |
-| Rotor Aircraft | 3 | - | Aerial operations capability |
-| Electronics B/R | 4 | Drone Systems | Drone program installation, ECM repair |
-| Gunnery | 4 | - | Vehicle-mounted weapon defense |
-| Car B/R | 3 | - | Vehicle maintenance and modifications |
-| Engineering | 4 | Vehicle Architecture | Understanding vehicle systems |
-| Smuggler Routes | 5 | Street (Knowledge) | Critical for courier work, safe LZs |
-| Stealth | 1 | - | Avoiding detection when needed |
-| Athletics | 2 | - | Physical presence despite small stature |
+| Skill | Rating | Notes |
+|-------|:------:|-------|
+| Rotorcraft | 6 | Rotor drones + rotorcraft — primary jumped-in skill |
+| Car | 6 | Ground drones + the van |
+| Electronics B/R | 6 | Build/repair drones & sensors — his signature |
+| Electronics | 6 | Sensors, ECM, drone systems |
+| Gunnery | 5 | Drone-mounted weapons |
+| Computer | 4 | Rigging interface, basic Matrix |
+| Pistols | 4 | Personal defense |
+| Stealth | 4 | Staying off the radar on foot |
+| Athletics | 3 | — |
+| Negotiation | 3 | Courier client deals |
+| Etiquette | 3 | Street/corp social footing |
 
-**Total Active Skills: 30/30 points**
-
----
-
-## Knowledge Skills
-
-*Intelligence × 4 = 16 maximum. Used 8 points.*
-
-| Skill | Rating | Source |
-|-------|--------|--------|
-| Engineering | 4 | Intelligence 4 × 4 = 16 available, using 8 points |
-| Smuggler Routes | 5 | Willpower 5, Street specialization (Knowledge) |
+Total = 6+6+6+6+5+4+4+4+3+3+3 = **50/50** ✓
 
 ---
 
-## Cyberware
+## Knowledge Skills (Intelligence × 5 = 30 points — SR3 p.60)
 
-*Alpha-grade datajack (.16 Essence per SR3E p.63). Total essence cost before rounding: -5.16.*
+| Skill | Rating |
+|-------|:------:|
+| Vehicle Architecture (Engineering) | 4 |
+| Drone Specs & Models | 4 |
+| Smuggler Routes | 4 |
+| Seattle Sprawl Geography | 3 |
+| Corporate Security Systems | 3 |
+| Sprawl Fixers | 2 |
+| Language: English (native) | 6 |
+| Language: Cityspeak | 4 |
 
-| Implant | Grade | Essence | Cost | Effect |
-|---------|-------|---------|------|--------|
-| Datajack Port (Alpha) | Alpha | -.16 | 2,000¥ | Required for neural link to vehicle control rigs |
-| Smartlink System | Basic | -1 | ~4,500¥ | Enables smartgun/ECM functionality (Rating 1) |
-| Vehicle Control Rig | Basic | -3 | ~8,000¥ | Essential rigger cyberware (Rating 2) |
-
-**Remaining Essence: E2**
-
-*Starting characters can have fractional essence above zero. Total reduction of .16 from datajack plus rounded values keeps character at minimum viable E2.*
+Total = **30/30** ✓ *(Knowledge points are a separate pool from Active Skills —
+the earlier sheet wrongly paid for these out of the 30 active points.)*
 
 ---
 
-## Drones
+## Cyberware — 15,500¥ · 2.7 Essence → **E 3.3**
 
-*Starter micro-drone rig for delivery and surveillance operations.*
+*All values from SR3 p.298/302 (via the Ultimate Equipment List cross-check).*
 
-| Drone Type | Program | Cost | Notes |
-|------------|---------|------|-------|
-| Micro-drone (Basic chassis) | Delivery Operations + Surveillance | ~5,000¥ | Lightweight drone optimized for courier work and security monitoring |
-| Smartlink Adapter | — | ~1,000¥ | Connects drone to smartgun system |
+| Implant | Rating | Essence | Cost | Cite |
+|---------|:------:|:-------:|------:|------|
+| Vehicle Control Rig | 1 | 2.0 | 12,000¥ | SR3 p.302 |
+| Datajack | — | 0.2 | 1,000¥ | SR3 p.298 |
+| Smartlink | I | 0.5 | 2,500¥ | SR3 p.281/M&M |
+
+**Essence spent 2.7 → E 3.3.**
+
+> **Why the old build was impossible:** it listed the Vehicle Control Rig at
+> "~8,000¥" and Smartlink at "~4,500¥" and claimed −5 Essence → E1. Real numbers:
+> a **VCR-2 is 60,000¥ / 3.0 Essence** and VCR-1 is 12,000¥ / 2.0. The whole rig
+> could never fit the 20,000¥ (Priority D) the old sheet also claimed — a VCR-2
+> alone is 3× that. Hence Resources C (90,000¥) and a VCR-1 here.
+
+---
+
+## Drones — 29,600¥
+
+| Drone | Role | Price | Cite |
+|-------|------|------:|------|
+| MCT Nissan Rotodrone | Aerial workhorse (Pilot 1, Sig 5) | 9,000¥ | R3 p.176 |
+| Shiawase Kanmushi | Micro-spy, Sig 12 — surveillance | 9,350¥ | R3 p.178 |
+| Sikorski-Bell Microskimmer | Recon rotor | 7,500¥ | R3 p.174 |
+| Aztechnology GCR-23C Crawler | Ground crawler | 3,750¥ | R3 p.172 |
+
+*Jumped-in, ground drones run on Car and rotor drones on Rotorcraft.*
+
+---
+
+## Vehicle — 32,000¥
+
+| Vehicle | Notes | Price | Cite |
+|---------|-------|------:|------|
+| Landrover Model 2046 (van) | Enclosed body — mobile drone rack & base | 32,000¥ | R3 p.166 |
 
 ---
 
 ## Weapons
 
-| Weapon | Type | Mode | Damage | Ammo | RC | Cost |
-|--------|-------|------|--------|------|----|------|
-| Browning Max-Power | Smartgun | SA (Semi-Auto) | 9M | 50 rounds | Yes | ~1,500¥ |
+| Weapon | Type | Conc. | Mode | Damage | Ammo | Price | Cite |
+|--------|------|:-----:|:----:|:------:|:----:|------:|------|
+| Fichetti Security 500 | Light pistol | 7 | SA | 6L | 10 (c) | 400¥ | SR3 p.277 |
 
-### Ammunition
-
-- **50 Rounds:** Standard high-velocity ammunition for smartgun use
+*+ Smartgun link (500¥) so the internal Smartlink applies. 3 clips regular ammo (~60¥).*
 
 ---
 
 ## Gear
 
-| Item | Cost | Notes |
-|------|------|-------|
-| Commlink | 2,500¥ | Standard rigging communications equipment |
-| Decking Kit (Basic) | 1,800¥ | Basic electronics work and comms jamming |
-| Tools & Repair Kit | 500¥ | Vehicle/drone maintenance tools |
-| Street Clothes + Gear | 1,000¥ | Basic attire appropriate for Sprawl operations |
+| Item | Price | Cite |
+|------|------:|------|
+| Armor Jacket (5/3 ballistic/impact) | 900¥ | SR3 p.283 |
+| Pocket Secretary | 2,000¥ | SR3 p.287 |
+| Vehicle Tool Kit | 500¥ | SR3 |
+| Electronics Tool Kit | 500¥ | SR3 |
+| Medkit | 200¥ | SR3 |
 
 ---
 
 ## Lifestyle
 
-| Lifestyle | Duration | Cost | Notes |
-|-----------|----------|------|-------|
-| Street Lifestyle | Temporary | Variable | Typical lower levels apartment; can be upgraded as resources allow |
+| Lifestyle | Term | Cost |
+|-----------|------|------:|
+| Low | 1 month | 1,000¥ | *(SR3 p.63 — every character must buy a lifestyle)* |
 
 ---
 
-## Budget Summary
+## Budget Summary (Resources C = 90,000¥)
 
 | Category | Cost |
-|----------|------|
-| Cyberware (Alpha datajack) | ~14,500¥ |
-| Personal Gear | ~6,300¥ |
-| Drone Rig | ~7,200¥ |
-| Weapons | ~1,500¥ |
-| **Total Spent** | **~29,500¥** |
+|----------|------:|
+| Cyberware | 15,500¥ |
+| Drones | 29,600¥ |
+| Vehicle | 32,000¥ |
+| Weapon + smartgun link + ammo | 960¥ |
+| Gear | 4,100¥ |
+| Lifestyle (Low, 1 mo) | 1,000¥ |
+| **Total spent** | **83,160¥** |
+| **Starting nuyen remaining** | **6,840¥** |
 
-*Note: Starting resources of ~20,000¥ were supplemented with additional equipment purchases. Character may need to earn additional nuyen through runs.*
-
----
-
-## Notes
-
-- **GM Hooks:** Kagar's young age and relatively low resource level make him vulnerable to exploitation by corpo or street gangs. Consider starting the campaign with him taking on odd jobs for a fixer or corpsman before transitioning into more independent work.
-  
-- **Campaign Connection Points:** His delivery background makes him useful for courier runs, while his security rigging skills provide value in surveillance and defensive operations. The dwarf's thermographic vision could be key to solving certain mysteries involving hidden threats in low-light environments.
-
-- **Rules Caveats:** As a starting character with minimal cyberware, Kagar has limited combat capability outside of vehicle-mounted weapons. His build is intentionally focused on rigging expertise rather than direct confrontation.
-  
-- **Essence Correction:** Datajack Port uses alpha grade (.16 Essence per SR3E Core p.63) rather than basic (-1 Essence). This correction ensures accurate essence budgeting from the start.
+Within budget, no hand-waving. ✓
 
 ---
 
-*Character created for Huntsville Shadowrun. SR3E (Shadowrun Third Edition) rules. Build verified against Core Rulebook pp. 54-65 and Rigger 3 sourcebook.*
+## GM Notes
+
+- **Hooks:** young, cash-thin, drone-reliant — ripe for a fixer to keep on a
+  short leash with courier/overwatch gigs before he goes independent.
+- **Combat profile:** deliberately light. Kagar fights *through* drones (Gunnery 5)
+  and only defends himself with the Fichetti. Keep him behind the rig.
+- **Room to grow:** E 3.3 leaves headroom for a VCR upgrade or wired reflexes
+  later; 6,840¥ banked to start.
+
+---
+
+*Huntsville Shadowrun · SR3E rules · Build verified against Core pp.54–63 (priority,
+attributes, skills, derived stats) and Rigger 3 (drones/vehicle), cross-checked
+against the Ultimate Shadowrun Equipment List.*
