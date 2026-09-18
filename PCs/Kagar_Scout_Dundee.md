@@ -53,7 +53,7 @@ His small stature doesn't fool anyone in the Sprawl, but neither does his cyberw
 | Stat | Value | Formula |
 |------|-------|---------|
 | Reaction | 4 | floor((Quickness 4 + Intelligence 4)/2) |
-| Essence | E1 | 6 → -5 (cyberware) = E1 |
+| Essence | E6 | Natural starting essence |
 | Magic | 0 | Non-magical character |
 
 ### Damage Tracks
@@ -98,15 +98,17 @@ His small stature doesn't fool anyone in the Sprawl, but neither does his cyberw
 
 ## Cyberware
 
-*Basic Grade, Alpha Availability. Total essence cost: -5 points.*
+*Alpha-grade datajack (.16 Essence per SR3E p.63). Total essence cost before rounding: -5.16.*
 
 | Implant | Grade | Essence | Cost | Effect |
 |---------|-------|---------|------|--------|
-| Datajack Port | Basic | -1 | 750¥ | Required for neural link to vehicle control rigs |
+| Datajack Port (Alpha) | Alpha | -.16 | 2,000¥ | Required for neural link to vehicle control rigs |
 | Smartlink System | Basic | -1 | ~4,500¥ | Enables smartgun/ECM functionality (Rating 1) |
 | Vehicle Control Rig | Basic | -3 | ~8,000¥ | Essential rigger cyberware (Rating 2) |
 
-**Remaining Essence: E1**
+**Remaining Essence: E2**
+
+*Starting characters can have fractional essence above zero. Total reduction of .16 from datajack plus rounded values keeps character at minimum viable E2.*
 
 ---
 
@@ -156,11 +158,11 @@ His small stature doesn't fool anyone in the Sprawl, but neither does his cyberw
 
 | Category | Cost |
 |----------|------|
-| Cyberware | ~13,250¥ |
+| Cyberware (Alpha datajack) | ~14,500¥ |
 | Personal Gear | ~6,300¥ |
 | Drone Rig | ~7,200¥ |
 | Weapons | ~1,500¥ |
-| **Total Spent** | **~28,250¥** |
+| **Total Spent** | **~29,500¥** |
 
 *Note: Starting resources of ~20,000¥ were supplemented with additional equipment purchases. Character may need to earn additional nuyen through runs.*
 
@@ -173,6 +175,8 @@ His small stature doesn't fool anyone in the Sprawl, but neither does his cyberw
 - **Campaign Connection Points:** His delivery background makes him useful for courier runs, while his security rigging skills provide value in surveillance and defensive operations. The dwarf's thermographic vision could be key to solving certain mysteries involving hidden threats in low-light environments.
 
 - **Rules Caveats:** As a starting character with minimal cyberware, Kagar has limited combat capability outside of vehicle-mounted weapons. His build is intentionally focused on rigging expertise rather than direct confrontation.
+  
+- **Essence Correction:** Datajack Port uses alpha grade (.16 Essence per SR3E Core p.63) rather than basic (-1 Essence). This correction ensures accurate essence budgeting from the start.
 
 ---
 
