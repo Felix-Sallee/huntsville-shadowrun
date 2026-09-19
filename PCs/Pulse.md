@@ -228,7 +228,7 @@ Custom-designed Interceptor-class ground vehicle selected for fast, agile hit-an
 ## Notes
 
 ### GM Hooks
-- Herrick's corporate background makes him uniquely qualified to infiltrate high-security corp facilities.
+- PULSE's corporate background makes him uniquely qualified to infiltrate high-security corp facilities.
 - His ex-corporate contacts can provide intel on upcoming raids or heists.
 - The drone fleet requires regular maintenance and fuel refills—potential weak point during extended operations.
 
