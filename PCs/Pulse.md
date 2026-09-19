@@ -16,9 +16,9 @@ title: Herrick
 
 ## Background
 
-Former corporate data analyst turned shadowrunner, Herrick burned his SIN in protest against corporate exploitation and the dark side of legitimate research. His transition from white-collar espionage to street-level operations was driven by a desire to expose corruption while maintaining financial independence.
+Former corporate data analyst turned shadowrunner, PULSE burned his SIN in protest against corporate exploitation and the dark side of legitimate research. His transition from white-collar espionage to street-level operations was driven by a desire to expose corruption while maintaining financial independence.
 
-Using his deep understanding of computer systems gained during years of legitimate corporate research, Herrick pivoted from analyzing data to manipulating it for shadowrun jobs—hacking corporate databases, stealing proprietary information, and occasionally taking on missions that challenge both corps and rival corporations' interests.
+Using his deep understanding of computer systems gained during years of legitimate corporate research, PULSE pivoted from analyzing data to manipulating it for shadowrun jobs—hacking corporate databases, stealing proprietary information, and occasionally taking on missions that challenge both corps and rival corporations' interests.
 
 His background as a researcher gives him insight into how corporations operate, allowing him to identify vulnerabilities and weaknesses that others miss. He believes in fighting the system from within rather than being exploited by it.
 
