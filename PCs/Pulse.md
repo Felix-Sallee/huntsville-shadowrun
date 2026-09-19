@@ -6,7 +6,7 @@ title: Herrick
 
 # HERRICK
 
-**Player:** Daniel Sallee  
+**Player:** Daniel  
 **Real Name:** [Redacted]  
 **Archetype:** Rigger  
 **Metatype:** Human (Male)  
