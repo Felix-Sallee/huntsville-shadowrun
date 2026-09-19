@@ -4,7 +4,7 @@ title: Herrick
 
 [← Huntsville Shadowrun](../)
 
-# HERRICK
+# PULSE
 
 **Player:** Daniel  
 **Real Name:** [Redacted]  
