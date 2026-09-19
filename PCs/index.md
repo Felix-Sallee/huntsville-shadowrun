@@ -14,6 +14,7 @@ The runners who work the shadows of Huntsville.
 |--------|--------|-----------|--------|
 | [Alitza](Alitza.html) | Jennifer | Human Decker / Rigger | Active |
 | [Kagar "Scout" Dundee](Kagar_Scout_Dundee.html) | Daniel Sallee | Dwarf Rigger | Active |
+| [Herrick](Herrick.html) | Daniel Sallee | Human Rigger | Active |
 
 ---
 
