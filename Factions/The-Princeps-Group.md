@@ -55,7 +55,9 @@ Princeps gives the CAS a protected research and procurement channel in a sector 
 | Name | Role | Notes |
 |------|------|-------|
 | Claude August | CEO / Controlling Owner | Young man in appearance; secretly a juvenile western dragon. See [[Claude August]](../NPCs/Claude-August.html) for full profile.
-| Elena Rosales | Corporate PR Director | Manages public image and crisis communications; the only person who can keep Claude's dragon nature quiet. See [[Elena Rosales]](../NPCs/elena-rosales.html). | |
+| Elena Rosales | Corporate PR Director | Manages public image and crisis communications; the only person who can keep Claude's dragon nature quiet. See [[Elena Rosales]](../NPCs/elena-rosales.html). |
+| Robert "Cleaner" Henderson | Executive Operations Manager | Cleans up after Claude's draconic messes, handles corporate fallout and legal crises. See [[Robert "Cleaner" Henderson]](../NPCs/robert-cleaner-henderson.html). |
+| Marcus "Ironwall" Devlin | Head of Security | Iron-fisted security chief; former military police officer who knows Claude's secret under NDA. See [[Marcus "Ironwall" Devlin]](../NPCs/marcus-devlin.html). |
 
 ---
 
