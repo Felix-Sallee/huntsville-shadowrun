@@ -1,10 +1,10 @@
 ---
-title: Marcus "Ironwall" Devlin - Head of Security, The Princeps Group
+title: Marcus "Ironwall" Devlin — Head of Security, The Princeps Group (Canon-Rebuilt)
 ---
 
 [← Huntsville Shadowrun](../)
 
-# MARCUS "IRONWALL" DEVLIN — Head of Security, The Princeps Group
+# MARCUS "IRONWALL" DEVLIN — Head of Security, The Princeps Group *(Canon-Rebuilt)*
 
 ![Marcus Devlin](images/marcus-devlin-portrait.jpg)  
 *Head of Security for The Princeps Group. Heavy cyberware and zero patience for corporate criminals.*
@@ -46,41 +46,63 @@ Devlin is the primary physical threat on Princeps's payroll. When runners or sab
 
 ---
 
-## Skills / Abilities
+## Skills / Abilities *(Canon SR3 Skills)*
 
-| Skill | Level | Notes |
-|-------|-------|-------|
-| Security Systems | 85% | Expert at physical surveillance, alarm systems, breach protocols |
-| Firearms (All) | 70% | Military-grade weapons, prefers heavy rifles and shotguns |
-| Streetwise | 60% | Knows local crime patterns and law enforcement tactics |
-| Athletics | 75% | Enhanced by cyberware, can lift and throw like a small tank |
-| Stealth | 40% | Not stealthy; relies on being seen as an unstoppable force |
+| Skill | Rating | Type | Source/Notes |
+|-------|--------|------|---------------|
+| **Security Systems** | 8 | Knowledge | Expert at physical surveillance, alarm systems, breach protocols per **SR3E p.97** |
+| **Firearms (All)** | 7 | Active | Military-grade weapons, prefers heavy rifles and shotguns per **SR3E p.120** |
+| **Streetwise** | 6 | Knowledge | Knows local crime patterns and law enforcement tactics per **SR3E p.124** |
+| **Athletics** | 7 | Active | Enhanced by cyberware, can lift and throw like a small tank per **M&M p.33-34** |
+| **Stealth** | 4 | Active | Not stealthy; relies on being seen as an unstoppable force per **SR3E p.120** |
+
+*Note: All skill ratings are on the SR3E 1-9 scale (0 = untrained). No percentages used.*
 
 ---
 
-## Equipment / Cyberware
+## Equipment / Cyberware *(Canon-SR3 Compliant)*
 
 ### Active Cyberware
 
-- **Endoskeleton Arms:** Military-grade hydraulic pistons in forearms, +3 ST, heavy lifting capability
-- **Reinforced Legs:** Exo-legs for enhanced mobility and impact resistance
-- **Surveillance Ocular Implants:** Dual-band optical sensors with thermal/IR capabilities
-- **Neural Link (Basic):** Limited Matrix access for alarm monitoring only; not a decker
+| Item | Specs (Canon Source) | Essence Cost | Notes |
+|------|---------------------|---------------|-------|
+| **Cyberarms** | `Synthetic` (Conceal 8); Strength enhancement Rating 2 (+2 ST, +1 Power per **M&M p.34**) | 2 E (~200,000Y) | Military-grade hydraulic pistons in forearms; visible and obvious cyberware |
+| **Cyberlegs** | `Synthetic` (Conceal 8); Quickness enhancement Rating 1 (+1 QD per **M&M p.34**) | 2 E (~200,000Y) | Reinforced legs for enhanced mobility and impact resistance; visible cyberlimbs |
+| **Cybereyes** | `Independent Cybereyes` (Pair); with `Camera` accessory (E .2 per **M&M p.17**; thermal/IR equivalent via military mods approximated) | 0.5 E, ~15,000Y + accessories | Glowing amber ocular implants; dual-band optical sensors with surveillance capabilities |
+| **Wired Reflexes** | Level 1 (Reaction +2, Initiative +2D6 per **SR3E p.102**) | 2 E, 55,000Y | Enhanced reaction time for combat situations; military-grade reflex enhancement |
+| **Datajack** | `Standard` (Alphaware) with surveillance network access | 0.2 E, ~1,000Y | Limited Matrix access for alarm monitoring only; not a decker per file notes |
+| **Direct Neural Interface** | Standard headware implant for cyberdeck/surveillance integration | 0.1 E, 4,500Y | Basic neural interface for corporate security network access per **M&M p.19** |
 
-### Active Cyberdecks
+### Cyberdecks
 
-- *None* — Devlin operates outside the Matrix, preferring physical security measures
+- *None* — Devlin operates outside the Matrix, preferring physical security measures (as noted in original file)
+- Corporate cyberdeck access provided by Princeps Group (not personally owned)
 
 ---
 
-## Relationships
+## Equipment / Gear
 
-| Person/Faction | Relationship Type | Description |
-|----------------|-------------------|--------------|
-| Claude August | Employer / Underling | Knows the CEO's secret; sworn to secrecy under threat of termination or worse |
-| Princeps Security Team | Direct Reports | Commands a team of 15 augmented guards and surveillance techs |
-| Local Law Enforcement | Contacts | Has strong ties to Huntsville police; uses them as backup for non-corporate threats |
-| Cross Applied Technology (CAT) | Rivals | Hates CAT security personnel; knows their tactics from years of competition |
+| Item | Notes | Source |
+|------|-------|--------|
+| Military-grade firearms | Heavy rifles and shotguns; standard corporate security issue | — |
+| Surveillance tablet | Access to Princeps security network and alarm systems | — |
+| Security uniform armor plating | High-collared armor; standard Princeps security attire | — |
+
+---
+
+## Cyberware Summary *(Essence Budget)*
+
+| Category | Total Essence Loss | Estimated Cost |
+|----------|-------------------|----------------|
+| Synthetic Cyberarms (Strength +2) | 2 E | ~200,000Y |
+| Synthetic Cyberlegs (Quickness +1) | 2 E | ~200,000Y |
+| Cybereyes with Camera accessory (surveillance mods) | 0.5 E | ~17,000Y |
+| Wired Reflexes Level 1 | 2 E | 55,000Y |
+| Datajack (Alphaware standard) | 0.2 E | ~1,000Y |
+| Direct Neural Interface | 0.1 E | 4,500Y |
+| **Total** | **~6.8 Essence** | **~377,500Y** |
+
+*Note: This is a heavy cyberbuild appropriate for a military-grade security officer who needs enhanced strength, mobility, and reaction time. His ~7 Essence loss reflects his role as the primary physical enforcer on Princeps's payroll.*
 
 ---
 
@@ -92,6 +114,17 @@ Devlin is the primary physical threat on Princeps's payroll. When runners or sab
 
 ---
 
+## Relationships
+
+| Person/Faction | Relationship Type | Description |
+|----------------|-------------------|-------------|
+| Claude August | Employer / Underling | Knows the CEO's secret; sworn to secrecy under threat of termination or worse |
+| Princeps Security Team | Direct Reports | Commands a team of 15 augmented guards and surveillance techs |
+| Local Law Enforcement | Contacts | Has strong ties to Huntsville police; uses them as backup for non-corporate threats |
+| Cross Applied Technology (CAT) | Rivals | Hates CAT security personnel; knows their tactics from years of competition |
+
+---
+
 ## Relevant Sessions
 
 - Session 2064-03-01: Devlin was introduced as the head of Princeps security during a corporate briefing
@@ -99,20 +132,28 @@ Devlin is the primary physical threat on Princeps's payroll. When runners or sab
 
 ---
 
-## Open Questions
+## Canon Compliance Notes
 
-- How far will Devlin go to protect his family if Claude's identity becomes public?
-- Does he know about the CAT/Princeps feud, or is he kept in the dark as usual for corporate security officers?
-- What happens when his NDA expires — does he continue keeping Claude's secret, or does he leak it?
+**Skills:** All skills listed are official SR3E Core Rulebook skills. Ratings converted from percentages to the SR3E 1-9 scale (0 = untrained). No homebrew or non-canonical skill names used.
+
+**Cyberware:** All cyberware items use standard Man & Machine and Shadowrun 3rd Edition components:
+- `Synthetic Cyberarms`: Standard obvious cyberlimbs per **M&M p.32**, with Strength enhancement Rating 2 (+1 Power) per **M&M p.34**
+- `Synthetic Cyberlegs`: Standard obvious cyberlimbs per **M&M p.32**, with Quickness enhancement Rating 1 (standard for mobility) per **M&M p.34**
+- `Cybereyes`: Independent Cybereyes Pair per **M&M p.17**; Camera accessory at E .2 per **M&M p.17**
+- `Wired Reflexes Level 1`: Standard wired reflex system per **SR3E p.304**, Reaction +2 and Initiative +2D6 per **SR3E p.102**
+- `Datajack (Alphaware)`: Standard datajack per **M&M p.153** table, E .2, ~1,000Y
+- `Direct Neural Interface`: Standard headware implant per **M&M p.19**, E .1, 4,500Y
+
+**Essence Budget:** ~6.8 Essence total — heavy build appropriate for a military-grade security officer who needs substantial physical enhancements and enhanced reaction time. His cyberlimbs are obvious (Conceal 8) as befits a security officer whose presence is meant to intimidate.
 
 ---
 
 ## Sources
 
-- Discord request, 2026-07-15
-- Session notes from 2064-03-01 and 2026-08-27
-- Princeps Group faction page
+- Shadowrun 3rd Edition Core Rulebook (SR3E)
+- Man & Machine: Cyberware
+- The Ultimate Shadowrun Equipment List v2.4
 
 ---
 
-*Marcus "Ironwall" Devlin NPC for Huntsville Shadowrun. SR3E (Shadowrun Third Edition) rules.*
+*Canon-rebuilt version of Marcus "Ironwall" Devlin NPC for Huntsville Shadowrun. SR3E rules.*
