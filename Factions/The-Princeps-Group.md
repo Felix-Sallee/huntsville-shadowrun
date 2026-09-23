@@ -54,7 +54,8 @@ Princeps gives the CAS a protected research and procurement channel in a sector 
 
 | Name | Role | Notes |
 |------|------|-------|
-| Claude August | CEO / Controlling Owner | Young man in appearance; secretly a juvenile western dragon. See [[Claude August]](../NPCs/Claude-August.html) for full profile. |
+| Claude August | CEO / Controlling Owner | Young man in appearance; secretly a juvenile western dragon. See [[Claude August]](../NPCs/Claude-August.html) for full profile.
+| Elena Rosales | Corporate PR Director | Manages public image and crisis communications; the only person who can keep Claude's dragon nature quiet. See [[Elena Rosales]](../NPCs/ELENA-ROSAL.md). | |
 
 ---
 
