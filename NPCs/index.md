@@ -14,6 +14,8 @@ NPCs for the Huntsville Shadowrun campaign, including corporate principals, fixe
 |------|----------|-----------|--------|
 | [Claude August](Claude-August.html) | Dragon | Decker / CEO | Active |
 | [Elena Rosales](elena-rosales.html) | Human | Corporate Principal / PR Director | Active |
+| [Robert "Cleaner" Henderson](robert-cleaner-henderson.html) | Human | Executive Operations Manager | Active |
+| [Marcus "Ironwall" Devlin](marcus-devlin.html) | Cyborg | Security Chief / Augmented | Active |
 
 ---
 
