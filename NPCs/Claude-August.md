@@ -6,7 +6,11 @@ title: Claude August
 
 # CLAUDE AUGUST
 
-![Claude August](claude-august-portrait.jpg)   <!-- optional image placeholder -->
+![Claude August — Human Form](images/Claude-August-False-Human-Form-2026-07-08.png)
+*Claude's false human form, appearing as a young man in his teens.*
+
+![Claude August — True Form](images/Claude-August-True-Form-2026-07-08.png)
+*Claude's true draconic nature revealed.*
 
 **Real Name:** Claude August  
 **Archetype:** Decker (CEO / Corporate Principal)  
