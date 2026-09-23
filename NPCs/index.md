@@ -4,15 +4,15 @@ title: NPCs
 
 [← Huntsville Shadowrun](../)
 
-# NPCs
+# NON-PLAYER CHARACTERS
 
-The contacts, enemies, and faces that populate the shadows of Huntsville.
+NPCs for the Huntsville Shadowrun campaign, including corporate principals, fixers, informants, and other key figures encountered in the UCAS defense corridor.
 
 ---
 
 | Name | Metatype | Archetype | Status |
 |------|----------|-----------|--------|
-| [Raze](Raze.html) | Ork | Street Samurai | Active |
+| [Claude August](Claude-August.html) | Dragon | Decker / CEO | Active |
 
 ---
 
