@@ -1,7 +1,7 @@
 ---
 title: Commercial Cyberware Advertisement
 slug: commercial-cyberware-ad
-kind: short-form
+kind: game-material
 tags: [fluff, cyberware, advertisement]
 created: 2026-09-23
 ---
@@ -30,7 +30,7 @@ _"Meet **SYNTHSKIN™**—the revolutionary dermal plating that turns your natur
 ### [CUT TO: A street kid dodging a hail of gunfire, unharmed]
 
 **NARRATOR:**  
-_"Still need more power? Try our **MUSCLE REPLACEMENT™** line! Available in three flavors:"_
+_"Still need more power? Try our **MUSCLE REPLACEMENT™** line! Available in three flavors:"
 - _**STANDARD**: Perfect for the everyday worker. Add +1 Strength per rating. No soreness, no fatigue—just pure lifting power!"_
 - _**ALPHA**: For those who demand excellence. Four times more powerful than standard, with enhanced durability and a touch of style."_
 
@@ -122,7 +122,7 @@ This advertisement features several products from Shadowrun 3rd Edition canon, w
 ### SYNTHSKIN™ (Dermal Plating)
 - **Essence Cost:** — (varies by points)
 - **Cost per point:** ¥7,000 (Standard), ¥14,000 (Alpha), ¥28,000 (Beta)
-- **Availability:** 12/3 weeks (Standard), 6/4 days (Alpha/Beta/Delta)
+- **Availability:** 12/3 weeks (Standard), 6/4 days (Alpha/Beta)
 - **Street Index:** 2P-Q to 5P-R depending on grade
 
 ### MUSCLE REPLACEMENT™
