@@ -39,7 +39,7 @@ Claude serves as:
 | Contact | Level | Description |
 |---------|-------|-------------|
 | [The Princeps Group](Princeps-Group.html) | — | CEO and controlling owner of this CAS miltech corporation |
-| [Elena Rosales](ELENA-ROSAL.md) | High | Her boss and confidante; she's the only person who can keep his dragon nature quiet while managing public relations crises |
+| [Elena Rosales](elena-rosales.md) | High | Her boss and confidante; she's the only person who can keep his dragon nature quiet while managing public relations crises |
 | [Confederated American States](CAS.html) | High | His takeover was government-backed, but his legal standing may depend on remaining publicly human; military indirectly tied through Princeps's procurement relationships |
 | Former Princeps leadership | Enemy/Exiled | Replaced after the financial scandal that opened the takeover path |
 

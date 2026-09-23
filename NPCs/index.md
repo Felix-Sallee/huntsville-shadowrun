@@ -13,7 +13,7 @@ NPCs for the Huntsville Shadowrun campaign, including corporate principals, fixe
 | Name | Metatype | Archetype | Status |
 |------|----------|-----------|--------|
 | [Claude August](Claude-August.html) | Dragon | Decker / CEO | Active |
-| [Elena Rosales](ELENA-ROSAL.md) | Human | Corporate Principal / PR Director | Active |
+| [Elena Rosales](elena-rosales.html) | Human | Corporate Principal / PR Director | Active |
 
 ---
 
