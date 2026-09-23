@@ -50,14 +50,12 @@ Rosales is crucial for any plot involving media exposure, government investigati
 
 | Skill | Rating | Type | Source/Notes |
 |-------|--------|------|---------------|
-| **Etiquette (Corporate)** | 65% | Active | Charisma-based; covers corporate protocol, crisis comms, media relations per **SR3E p.94** |
-| **Negotiation** | 60% | Active | Charisma-based; handles deal-making with megacorp contacts per **SR3E p.90** |
-| **Etiquette (Matrix)** | 50% | Specialization | Matrix social navigation, icon etiquette, virtual comms per **M& M p.125** |
-| **Computer (Hardware)** | 50% | Active | Managing PR tech stack, social media monitoring systems; uses corporate deck per **SR3E p.48** |
-| **Etiquette** | 60% | Knowledge | General social customs, political savvy, Huntsville corporate underbelly knowledge per **SR3E p.94** |
-| **Stealth (Quickness)** | 35% | Active | Not stealth-focused; relies on being seen as a smooth-talking corporate shark per **SR3E p.89** |
-
-*Note: "Social Engineering" is not an official SR3 skill name. For manipulation of public perception, use **Etiquette (Corporate)** and **Negotiation** with appropriate modifiers. The "Social Engineering" concept maps to Etiquette's ability to make people act appropriately per **SR3E p.96**.*
+| **Etiquette (Corporate)** | 8 | Active | Charisma-based; covers corporate protocol, crisis comms, media relations |
+| **Negotiation** | 7 | Active | Charisma-based; handles deal-making with megacorp contacts |
+| **Etiquette (Matrix)** | 6 | Specialization | Matrix social navigation, icon etiquette, virtual comms |
+| **Computer (Hardware)** | 5 | Active | Managing PR tech stack, social media monitoring systems; uses corporate deck |
+| **Etiquette** | 7 | Knowledge | General social customs, political savvy, Huntsville corporate underbelly knowledge |
+| **Stealth (Quickness)** | 4 | Active | Not stealth-focused; relies on being seen as a smooth-talking corporate shark |
 
 ---
 
