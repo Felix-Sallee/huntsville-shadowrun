@@ -16,6 +16,7 @@ NPCs for the Huntsville Shadowrun campaign, including corporate principals, fixe
 | [Elena Rosales](elena-rosales.html) | Human | Corporate Principal / PR Director | Active |
 | [Robert "Cleaner" Henderson](robert-cleaner-henderson.html) | Human | Executive Operations Manager | Active |
 | [Marcus "Ironwall" Devlin](marcus-devlin.html) | Cyborg | Security Chief / Augmented | Active |
+| Vex "Razor" Kaelen | Human | Orc Ganger Runner | Active |
 
 ---
 
