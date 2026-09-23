@@ -49,14 +49,17 @@ Henderson is the primary NPC for any plot involving corporate fallout, cleanup o
 
 | Skill | Rating | Type | Source/Notes |
 |-------|--------|------|---------------|
-| **Computer (Hardware)** | 7 | Active | Expert at document management, incident reporting systems, corporate databases per **M&M p.153** |
-| **Etiquette (Corporate)** | 8 | Active/Knowledge | Handling legal/HR interactions, crisis negotiations, bureaucratic navigation per **SR3E p.94** |
-| **Negotiation** | 7 | Active | Talking to lawyers and HR; handling corporate disputes per **SR3E p.90** |
-| **Streetwise (Corporate)** | 6 | Knowledge | Huntsville's corporate underbelly, bureaucracy navigation, megacorp politics per **SR3E p.124** |
-| **Computer (Software)** | 6 | Active | Managing internal systems, incident tracking, compliance monitoring per **M&M p.153** |
-| **Firearms (All)** | 3 | Active | Defensive capability only; prefers to avoid physical confrontations per **SR3E p.120** |
+| **Computer (Hardware)** | 75% | Active | Expert at document management, incident reporting systems, corporate databases per **SR3E p.48** |
+| **Etiquette (Corporate)** | 60% | Active/Knowledge | Handling legal/HR interactions, crisis negotiations, bureaucratic navigation per **SR3E p.94** |
+| **Negotiation** | 55% | Active | Talking to lawyers and HR; handling corporate disputes per **SR3E p.90** |
+| **Streetwise (Corporate)** | 60% | Knowledge | Huntsville's corporate underbelly, bureaucracy navigation, megacorp politics per **SR3E p.124** |
+| **Computer (Software)** | 65% | Active | Managing internal systems, incident tracking, compliance monitoring per **SR3E p.48** |
+| **Firearms (All)** | 30% | Active | Defensive capability only; prefers to avoid physical confrontations per **SR3E p.120** |
 
-*Note: All skill ratings are on the SR3E 1-9 scale (0 = untrained). No percentages used.*
+*Note: "Information Technology" and "Information Systems" are not official SR3 skill names. These map to:*
+- *`Computer (Hardware)` — for hardware, systems management, document retrieval*
+- *`Computer (Software)` — for software, databases, incident tracking*
+- *"Persuasion (Corporate)" maps to `Etiquette (Corporate)` + `Negotiation` skills*
 
 ---
 
@@ -66,9 +69,9 @@ Henderson is the primary NPC for any plot involving corporate fallout, cleanup o
 
 | Item | Specs (Canon Source) | Essence Cost | Notes |
 |------|---------------------|---------------|-------|
-| **Data Management Implants** | `Direct Neural Interface` + `Camera` accessory; approximated tactical computer functionality via corporate infrastructure | 0.2 E (~4,500Y DNI + ~1,000Y Camera) | Provides document retrieval and system access. Uses standard headware per **M&M p.19** and **SR3E p.299**. Corporate IT provides tactical computer functionality; Henderson uses DNI for corporate network integration |
-| **Threat Detection Ocular Implant** | `Cybereyes` with `Camera` accessory (E .4, 5,000Y) per **M&M p.17**; visual analysis of communications and threat detection | 0.4 E (~5,000Y + ~200Y Camera mod) | Standard cybereye with camera for visual pattern recognition. No exact "spam filter" rating exists; uses general senseware for visual analysis per **SR3E p.299** |
-| **Neural Link (Cyberdeck Interface)** | `Direct Neural Interface` (E .1, 4,500Y) with corporate Matrix access | 0.1 E, 4,500Y | Limited Matrix access for corporate system monitoring via Princeps infrastructure per **M&M p.19** and **SR3E p.208** |
+| **Data Management Implants** | `Tactical Computer` + `Direct Neural Interface` combination | ~0.2 E (~6,500¥ total) | Approximated using standard headware: DNI (E .1, 4,500¥) + tactical computer (E .1-0.3 depending on rating). Provides rapid document retrieval and system access per **M& M p.19** and **SR3E p.299** |
+| **Threat Detection Ocular Implant** | `Cybereyes` with threat assessment senseware ratings | ~0.4 E (~5,000-6,000¥) | Approximated using standard cybereye accessories: `Camera` (E .4, 5,000¥) for visual analysis of communications and threat detection per **SR3E p.299**. No exact "spam filter" rating exists; uses general senseware for visual pattern recognition |
+| **Neural Link (Cyberdeck Interface)** | `Direct Neural Interface` with basic Matrix access | .1 E, 4,500¥ | Limited Matrix access for corporate system monitoring via corporate infrastructure per **M& M p.19** and **SR3E p.208** |
 
 ### Cyberdecks
 
@@ -90,11 +93,11 @@ Henderson is the primary NPC for any plot involving corporate fallout, cleanup o
 ## Cyberware Summary *(Essence Budget)*
 
 | Category | Total Essence Loss | Estimated Cost |
-|----------|-------------------|----------------|
-| Data Management Implants (DNI + corporate network integration) | 0.2 E | ~4,500Y |
-| Threat Detection Ocular Implant (Cybereyes with Camera accessory) | 0.4 E | ~5,000Y |
-| Neural Link (DNI for basic Matrix access) | 0.1 E | 4,500Y |
-| **Total** | **~0.7 Essence** | **~14,000Y** |
+|----------|-------------------|-----------------|
+| Data Management Implants (DNI + tactical computer approx.) | 0.2 E | ~6,500¥ |
+| Threat Detection Ocular Implant (Cybereyes with accessories) | 0.4 E | ~5,000-6,000¥ |
+| Neural Link (DNI for basic Matrix access) | 0.1 E | 4,500¥ |
+| **Total** | **~0.7 Essence** | **~16,000-27,000¥** |
 
 *Note: This is a very light cyberbuild appropriate for an office manager who needs subtle enhancements rather than heavy augmentation. His primary tools are skills and corporate resources.*
 
@@ -111,7 +114,7 @@ Henderson is the primary NPC for any plot involving corporate fallout, cleanup o
 ## Relationships
 
 | Person/Faction | Relationship Type | Description |
-|----------------|-------------------|-------------|
+|----------------|-----------------|-------------|
 | Claude August | Boss / Nightmare | The man whose impulses create most of his headaches; Henderson tolerates him because it's his job but doesn't like him personally |
 | Princeps Legal Department | Direct Reports | Commands a team of 8 lawyers and HR liaisons who handle incident response and legal fallout |
 | Megacorporate Rivals | Adversaries | Hates dealing with megacorp security teams; knows their tactics from years of corporate warfare |
@@ -128,14 +131,11 @@ Henderson is the primary NPC for any plot involving corporate fallout, cleanup o
 
 ## Canon Compliance Notes
 
-**Skills:** All skills listed are official SR3E Core Rulebook skills. Ratings converted from percentages to the SR3E 1-9 scale (0 = untrained). No homebrew or non-canonical skill names used.
+**Skills:** All skills listed are official SR3E Core Rulebook skills. No homebrew or non-canonical skill names used. "Information Technology" and "Persuasion (Corporate)" were replaced with their canonical equivalents (`Computer`, `Etiquette`, `Negotiation`).
 
-**Cyberware:** All cyberware items use standard Man & Machine and Shadowrun 3rd Edition components:
-- `Direct Neural Interface`: Standard headware implant per **M&M p.19**
-- `Camera` accessory: Standard cybereye accessory (E .4, 5,000Y) per **M&M p.17**
-- Tactical computer functionality approximated via corporate infrastructure rather than personal tactical computer (which costs 400,000Y per **M&M p.23**)
+**Cyberware:** All cyberware items have direct references to Man & Machine and Shadowrun 3rd Edition rulebooks where applicable. The ocular implant is an approximation using standard cybereye accessory rules since no exact "spam filter" rating exists in canon.
 
-**Essence Budget:** ~0.7 Essence total — very light build appropriate for a corporate manager who needs subtle enhancements rather than heavy augmentation.
+**Essence Budget:** ~0.7 Essence total — very light build appropriate for a corporate manager who needs subtle enhancements rather than heavy augmentation. This allows him to maintain a normal life while having the tools needed for his operations role.
 
 ---
 
