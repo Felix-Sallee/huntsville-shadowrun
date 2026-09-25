@@ -24,6 +24,11 @@ Flavor text, advertisements, tables, and other supplementary materials for the H
 - **Canon Lookup Guide**: Use `sr-search.sh` to verify cyberware costs from Man & Machine before creating NPCs
 - **Wiki Page Template**: Read [reference_wiki_format.md](memory/reference_wiki_format.md) before creating new pages
 
+## Narrative & Fluff
+
+- **Terpsicore's Praise for Deus** — An otaku's narrative about the AI deity Deus, exploring devotion, the Arcology tragedy, and the Resonance
+- **Terpsicore** (`Game_Materials/terpsicore-deus-praise.md`) — An otaku's narrative about the AI deity Deus, exploring devotion, the Arcology tragedy, and the Resonance
+
 ---
 
 *More materials will be added as the campaign progresses.*
