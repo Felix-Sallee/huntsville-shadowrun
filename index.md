@@ -22,6 +22,7 @@ Welcome to the campaign wiki for Huntsville Shadowrun — a living reference for
 
 - [Player Characters](PCs/)
 - [NPCs](NPCs/)
+- [Game Materials](Game_Materials/)
 - [Minigames and Web Apps](minigames/)
 - [Factions](Factions/)
 - [Locations](Locations/)
