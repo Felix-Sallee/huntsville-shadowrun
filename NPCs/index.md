@@ -20,4 +20,12 @@ NPCs for the Huntsville Shadowrun campaign, including corporate principals, fixe
 
 ---
 
+## Critters — Awakened Creatures
+
+Bespoke Awakened wildlife of the Alabama corridor, built on canon SR3 *Critters* templates.
+
+- [Critters — Awakened Creatures of Alabama](critters-alabama.html) — the Kudzu Strangler, the Slagwyrm (Birmingham), and the Riverhaunt (Tennessee River)
+
+---
+
 *More NPCs will appear as the campaign unfolds.*
